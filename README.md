@@ -1,7 +1,7 @@
 # E-commerce-Customer-Behavior
 
 
-🛒 E-Commerce Customer Analytics Project
+🛒 E-Commerce Customer Analytics Project Using SQL
 
 
 📌 Project Introduction
